@@ -7,7 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitPracticeApplication {
 
 	public static void main(String[] args) {
+
                 String name ="Branch One";
+                String name1="Branch two ";
+
 		SpringApplication.run(GitPracticeApplication.class, args);
 	}
 
