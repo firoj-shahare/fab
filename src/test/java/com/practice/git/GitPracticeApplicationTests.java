@@ -8,7 +8,7 @@ class GitPracticeApplicationTests {
 
 	@Test
 	void contextLoads() {
-          public String abd="str";
+          
 	}
 
 }
